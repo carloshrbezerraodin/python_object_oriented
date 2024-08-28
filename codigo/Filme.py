@@ -79,3 +79,7 @@ for programa in playlist:
 1
 for programa in playlist_getimte:
     print(programa)
+
+#pyhthon data model
+#__init__
+#__str__, __contains__
